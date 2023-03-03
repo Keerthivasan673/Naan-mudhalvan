@@ -14,4 +14,4 @@ Shopping cart management
 Order management and tracking
 Payment gateway integration
 Admin interface for managing products, orders, and customers
-![image](https://user-images.githubusercontent.com/89631327/222764953-87e0f638-8e8a-4ce1-9e46-da720f31edae.png)
+
